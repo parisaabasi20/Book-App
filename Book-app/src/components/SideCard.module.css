@@ -1,0 +1,23 @@
+.card{
+ display: flex;
+ align-items: center;
+ margin-top: 20px;
+ background-color: rgb(102, 102, 193);
+ margin: 10px 0;
+ padding: 10px 10px;
+ border-radius: 5px;
+ 
+}
+
+.card img{
+    width: 30px;
+    border-radius: 5px;
+    
+}
+
+
+.card p{
+    font-weight: 500;
+    margin-left: 10px;
+}
+
